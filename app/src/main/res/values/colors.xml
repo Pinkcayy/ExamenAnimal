@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base -->
+    <color name="primary">#81C784</color>
+    <color name="primary_dark">#66BB6A</color>
+    <color name="primary_light">#C8E6C9</color>
+    <color name="accent">#A5D6A7</color>
+    <color name="text_primary">#2E7D32</color>
+    <color name="text_secondary">#558B2F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Colores para tipos de animales -->
+    <color name="mamifero_bg">#C8E6C9</color>
+    <color name="mamifero_accent">#81C784</color>
+    
+    <color name="ave_bg">#A5D6A7</color>
+    <color name="ave_accent">#66BB6A</color>
+    
+    <color name="averapaz_bg">#81C784</color>
+    <color name="averapaz_accent">#4CAF50</color>
+
+    <!-- Colores para elementos de UI -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E8F5E9</color>
+    <color name="ripple">#1F000000</color>
+    <color name="toolbar_background">#81C784</color>
+    <color name="toolbar_text">#FFFFFF</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidProyectoUnivalle</string>
+    <string-array name="tipos_animal">
+        <item>Mamífero</item>
+        <item>Ave</item>
+        <item>Ave Rapaz</item>
+    </string-array>
+</resources>
